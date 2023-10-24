@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 400px;
+    margin: 2em auto;
+}
+
+.image-container {
+    width: 100%;
+    height: 20em;
+    overflow: hidden;
+}
+
+.image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 1em;
+}
+
+.card > section {
+    margin-top: 1.5em;
+}
+
+.location-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.location {
+    color: #2B283A;
+    font-size: 1rem;
+    letter-spacing: 0.2rem;
+}
+
+.google-link {
+    color: #918E9B;
+
+}
