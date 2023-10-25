@@ -1,12 +1,12 @@
 export default [
     {
-        title: "Mount Fuji",
-        location: "JAPAN",
-        googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
+        title: "Cartagena",
+        location: "COLOMBIA",
+        googleMapsUrl: "https://maps.app.goo.gl/NfQ2rtKDZo1Juw6N6",
         startDate: "12 Jan, 2021",
         endDate: "24 Jan, 2021",
-        description: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
-        imageUrl: "https://source.unsplash.com/WLxQvbMyfas"
+        description: "Cartagena, is a vibrant coastal city on the Caribbean Sea known for its rich history and stunning architecture. Its well-preserved Old Town, a UNESCO World Heritage Site, features colorful colonial buildings, charming cobblestone streets, and impressive fortifications.",
+        imageUrl: "https://source.unsplash.com/green-plants-in-front-of-white-and-brown-concrete-house-ZYyo-XV2sxE"
     },
     {
         title: "Sydney Opera House",
@@ -18,13 +18,13 @@ export default [
         imageUrl: "https://source.unsplash.com/JmuyB_LibRo"
     },
     {
-        title: "Geirangerfjord",
-        location: "NORWAY",
-        googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
+        title: "Florence",
+        location: "ITALY",
+        googleMapsUrl: "https://maps.app.goo.gl/VDVdJ3eBd5HQBjPK9",
         startDate: "1 Oct, 2021",
         endDate: "18 Nov, 2021",
-        description: "The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality.",
-        imageUrl: "https://source.unsplash.com/3PeSjpLVtLg"
+        description: "Florence is a historic and culturally rich city in the heart of Tuscany. It's renowned as the birthplace of the Renaissance and is celebrated for its extraordinary art and architecture, including iconic landmarks like the Florence Cathedral, Uffizi Gallery, and Michelangelo's David.",
+        imageUrl: "https://source.unsplash.com/brown-bridge-i4Igl7tjP7c"
     },
     {
         title: "San Diego",
@@ -36,12 +36,12 @@ export default [
         imageUrl: "https://source.unsplash.com/f5jyMrOS3yo"
     },
     {
-        title: "Milan",
-        location: "Italy",
-        googleMapsUrl: "https://goo.gl/maps/w9nNVvkyvNwziAWM8",
+        title: "Noosa",
+        location: "AUSTRALIA",
+        googleMapsUrl: "https://maps.app.goo.gl/H6c3eBf5QM4XbeSq9",
         startDate: "11 Dec, 2022",
         endDate: "12 Jan, 2022",
-        description: "Milan, a metropolis in Italy's northern Lombardy region, is a global capital of fashion and design. Home to the national stock exchange, it’s a financial hub also known for its high-end restaurants and shops.",
-        imageUrl: "https://source.unsplash.com/hQPZTxt34RQ"
+        description: "Noosa is an Australian resort area on southern Queensland’s Sunshine Coast. Known for its heavy surf, Sunshine Beach is backed by cafes and boutiques. A coastal trail runs north past the beaches of Noosa National Park, home to koalas around Tea Tree Bay.",
+        imageUrl: "https://source.unsplash.com/palm-trees-near-body-of-water-during-daytime-NP0tT9fDm_8"
     }
 ]

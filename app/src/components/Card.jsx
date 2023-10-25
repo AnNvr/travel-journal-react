@@ -14,9 +14,9 @@ export default function Card(props){
                         <a className='google-link' href={props.googleMapsUrl}>View on Google Maps</a>
                     </div>
                     <div className='data-container'>
-                        <h1>{props.title}</h1>
-                        <p>{props.startDate} - {props.endDate}</p>
-                        <p>{props.description}</p>
+                        <h1 className='title'>{props.title}</h1>
+                        <p className='dates'>{props.startDate} - {props.endDate}</p>
+                        <p className='description'>{props.description}</p>
                     </div>
                 </section>
             </div>
